@@ -1,6 +1,6 @@
 {
   "welcome": "καλως ηρθες",
   "message": "o",
-  "team": ""
+  "team": "You are going to be part of team %s! χωριάτης"
 }
 
